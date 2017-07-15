@@ -89,10 +89,11 @@ ul, ol {
 #footer {
   clear: both;
   height: 60px;
-  margin-bottom: 50px;
+  margin: 0px auto 50px auto;
   background: url("../imagenes/fondo_pie.jpg") no-repeat;
   color: #6685CC;
   position: relative;
+  width: 770px;
 }
 
 #inicial #logo {
